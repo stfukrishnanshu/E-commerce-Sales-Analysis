@@ -1,0 +1,2 @@
+pandas>=1.5 Required for data loading, cleaning, and analysis.
+matplotlib>=3.7 Required for creating line, bar, and pie charts.
